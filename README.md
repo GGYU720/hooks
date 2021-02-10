@@ -7,8 +7,8 @@ A collection of React Hooks
 - [x] useTitle
 - [x] useClick
 - [x] useHover
-- [ ] usePreventLeave
-- [ ] useConfirm
+- [x] useConfirm
+- [x] usePreventLeave
 - [ ] usePageLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
