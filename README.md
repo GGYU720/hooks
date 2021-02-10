@@ -2,8 +2,9 @@
 
 A collection of React Hooks
 
+- [x] useInput
+- [x] useTabs
 - [ ] useTitle
-- [ ] useInput
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
@@ -12,7 +13,6 @@ A collection of React Hooks
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
