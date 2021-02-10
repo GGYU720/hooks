@@ -14,5 +14,5 @@ A collection of React Hooks
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullscreen
-- [ ] useNotification
+- [x] useNotification
 - [ ] useAxios
