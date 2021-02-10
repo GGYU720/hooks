@@ -4,7 +4,7 @@ A collection of React Hooks
 
 - [x] useInput
 - [x] useTabs
-- [ ] useTitle
+- [x] useTitle
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
