@@ -5,14 +5,14 @@ A collection of React Hooks
 - [x] useInput
 - [x] useTabs
 - [x] useTitle
+- [x] useClick
+- [x] useHover
+- [ ] usePreventLeave
+- [ ] useConfirm
 - [ ] usePageLeave
-- [ ] useClick
 - [ ] useFadeIn
 - [ ] useFullscreen
-- [ ] useHover
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios
